@@ -23,7 +23,7 @@
 | Random sleep time between accounts                             |     ✅     |
 | Support pyrogram .session                                      |     ✅     |
 
-## Settings
+## [Settings](https://github.com/CatSnowdrop/PAWS/blob/main/.env-example/)
 |           Settings           |                                       Description                                        |
 |:-----------------------------:|:-------------------------------------------------------------------------------------:|
 |         **API_ID**            |        Your Telegram API ID (integer)                                                 |
@@ -40,7 +40,7 @@
 |      **DELAY_RELOGIN**        |        Delay after unsuccessful login attempt (eg, [0, 15])                           |
 |    **DELAY_RESTARTING**       |        Delay before restarting the program (eg, [21600, 43200])                       |
 |         **USE_REF**           |        Whether to use a refreral link (True / False)                                  |
-|         **REF_LINK**          |        Referral link                                                                  |
+|         **REF_LINK**          |        Referral link (30% to me)                                                                 |
 |  **USE_PROXY_FROM_FILE**      |        Use proxy from `bot/config/proxies.txt` (True / False)                         |
 
 
